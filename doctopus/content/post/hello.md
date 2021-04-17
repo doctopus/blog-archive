@@ -3,7 +3,7 @@ title: "Hello"
 date: 2021-04-17T18:55:05-04:00
 draft: false
 header:
-  image: "/images/hero-2.jpg"
+  image: "/images/hero-1.jpg"
   caption: "Yay! It works!"
 ---
 ![alt text](https://i.imgur.com/0xnhLwg.jpg)
