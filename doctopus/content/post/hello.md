@@ -10,7 +10,7 @@ header:
 TRying to add a picture
 
 Install from the command line
-
+The images are already in images folder
 
 
 If you don’t want to use the starter, you can start from scratch and just install this theme from the command line.
