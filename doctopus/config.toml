@@ -2,3 +2,6 @@ baseURL = "http://doctopus.github.io/"
 languageCode = "en-us"
 title = "Doctopus Blog"
 theme = "hugo-theme-novela"
+[social]
+twitter= "https://twitter.com/DocTapas"
+github= "https://github.com/doctopus"
