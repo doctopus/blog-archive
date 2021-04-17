@@ -2,3 +2,6 @@
 	path = doctopus/public
 	url = https://github.com/doctopus/doctopus.github.io.git
 	branch = master
+[submodule "doctopus/themes/hugo-theme-novela"]
+	path = doctopus/themes/hugo-theme-novela
+	url = https://github.com/forestryio/hugo-theme-novela.git
