@@ -1,0 +1,4 @@
+[submodule "doctopus/public"]
+	path = doctopus/public
+	url = https://github.com/doctopus/doctopus.github.io.git
+	branch = master
