@@ -1,0 +1,4 @@
+baseURL = "http://doctopus.github.io/"
+languageCode = "en-us"
+title = "Doctopus Blog"
+theme = "hugo-theme-novela"
