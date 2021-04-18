@@ -1,13 +1,12 @@
 ---
-title: "Hello"
+title: "Hello World"
 date: 2021-04-17T18:55:05-04:00
 draft: false
-header:
-  image: "/images/hero-1.jpg"
-  caption: "Yay! It works!"
+hero: "/images/hero-1.jpg"
+excerpt: "Testing Static Site Blog Deployment"
 ---
 ![alt text](https://i.imgur.com/0xnhLwg.jpg)
-TRying to add a picture
+
 
 Install from the command line
 The images are already in images folder
