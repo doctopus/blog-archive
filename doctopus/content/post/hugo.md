@@ -13,7 +13,7 @@ blog(git linked to blog repository)
 
 ——doctopus (any site name; created by hugo)
 
-\-boilerplate folders
+\-boilerplate folders    
       -themes    
          —hugo-theme (installed as a submodule)    
       -config.toml    
@@ -38,8 +38,10 @@ Install the theme of choice as a submodule in the themes folder
 
 `git submodule add https://github.com/xxx/hugo-theme.git themes/hugo-theme`
 
-Notice that this folder was added as a submodule so if it needs to be removed it needs to be removed using following process.
+Notice that this folder was added as a submodule so if it needs to be removed it needs to be removed using following process.    
 
+
+*Removing Submodule in a Main Git Module*
 If a submodule is wrongly added. Just deleting it will not help. Instead do the following
 
 `git submodule deinit <path_to_submodule>
@@ -75,9 +77,9 @@ While pushing for the first time we can define its master branch.
 
 `git push origin master`
 
-To differentiate the masters
-blog git has branch : main
-doctopus.github.io has branch : master
+To differentiate the masters    
+blog git has branch : main    
+doctopus.github.io has branch : master    
 
 To create a submodule within the blog in a folder named public: that is blog/doctopus/public
 
