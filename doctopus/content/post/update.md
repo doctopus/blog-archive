@@ -35,5 +35,34 @@ doctopus.github.io has branch : master
 
 Note that the hero images are taken from the folder public/images 
 Do not directly change content in the public folder rather add content to the theme? folder to have them replicated in the public folder.
+----
+
+#Summary Steps
+While in doctopus folder 
+
+`hugo new post/xpost.md`
+
+
+
+`hugo server -D` run the server.Edit the post dynamically reflecting changes as you save the file
+
+Once satisfied with changes 
+
+`hugo -t hugo-theme-novela` while in the doctopus folder  to build the public folder
+
+Move to public folder. Now push changes of public folder to the associated doctopus.github.io folder by running
+
+`git add . git commit -m "message"`
+
+`git push origin master`
+
+
+Move to blog folder. Push the changes to blog repository using  
+
+`git add . git commit -m "message"`
+
+`git push origin main`
+
+
 
 
