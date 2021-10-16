@@ -43,14 +43,14 @@ While in doctopus folder
 `hugo new post/xpost.md`
 
 
-
 `hugo server -D` run the server.Edit the post dynamically reflecting changes as you save the file
 
-Once satisfied with changes 
+Once satisfied with changes change the `draft: true` at the header of the blog post to `draft:false`
 
-`hugo -t hugo-theme-novela` while in the doctopus folder  to build the public folder
+While in the doctopus folder run   
+`hugo -t hugo-theme-novela` to build the public folder
 
-Move to public folder. Now push changes of public folder to the associated doctopus.github.io folder by running
+Move inside public folder. Now push changes of public folder to the associated doctopus.github.io folder by running
 
 `git add . git commit -m "message"`
 
@@ -62,6 +62,7 @@ Move to blog folder. Push the changes to blog repository using
 `git add . git commit -m "message"`
 
 `git push origin main`
+
 
 
 
