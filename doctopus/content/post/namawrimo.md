@@ -24,3 +24,8 @@ Link to NaMaWriMo21 https://doctopus.github.io/namawrimo21
 
 Throwback: Link to NaMaWriMo20 https://doctopus.github.io/namawrimo20
 
+{{< rawhtml >}}
+  <p class="speshal-fancy-custom">
+    Visit <strong>above links</strong>, to see progress charts in namawrimo.
+  </p>
+{{< /rawhtml >}}
